@@ -116,7 +116,7 @@
 
 <!-- ✅ Pac-Man-style GitHub Contributions Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/partho-ghoshal/partho-ghoshal/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/partho-ghoshal/partho-ghoshal/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/partho-ghoshal/partho-ghoshal/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Partho-Ghoshal/Partho-Ghoshal/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Partho-Ghoshal/Partho-Ghoshal/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Partho-Ghoshal/Partho-Ghoshal/output/pacman-contribution-graph.svg">
 </picture>
