@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **ghoshalpartho1@gmail.com**
 
-- ⚡ Fun fact **I am funnier than I appear**
+- ⚡ Fun fact **Built AI-powered tools that work smarter than my sleep schedule!**
 
 ---
 
