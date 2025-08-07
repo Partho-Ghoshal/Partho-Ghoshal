@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Partho Ghoshal</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Computer Science Student from India </h3>
+<p align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1200&center=true&vCenter=true&width=435&lines=Software+Developer+%F0%9F%92%BB;Machine+Learning+Explorer+%F0%9F%94%8E;Open+Source+Contributor+%F0%9F%93%96;Tech+Speaker+%F0%9F%8E%A4;Blockchain+Builder+%F0%9F%92%B8" alt="Typing SVG" />
+</p>
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=partho-ghoshal&label=Profile%20views&color=0e75b6&style=flat" alt="partho-ghoshal" />
